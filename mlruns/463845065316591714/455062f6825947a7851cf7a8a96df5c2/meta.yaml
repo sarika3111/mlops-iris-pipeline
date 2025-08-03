@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/6134155/Assignment-MLOPS/mlops-iris-pipeline/mlruns/463845065316591714/455062f6825947a7851cf7a8a96df5c2/artifacts
+deleted_time: 1754138802045
+end_time: 1754137477137
+entry_point_name: ''
+experiment_id: '463845065316591714'
+lifecycle_stage: deleted
+run_id: 455062f6825947a7851cf7a8a96df5c2
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754137468301
+status: 3
+tags: []
+user_id: '6134155'
