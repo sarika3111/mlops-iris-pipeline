@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Harish%20Kumar/Downloads/mlops-iris-pipeline/src/mlruns/105005051151918986/4cbd203a13ba4018902124482db859fd/artifacts
+end_time: 1754836539238
+entry_point_name: ''
+experiment_id: '105005051151918986'
+lifecycle_stage: active
+run_id: 4cbd203a13ba4018902124482db859fd
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754836536907
+status: 3
+tags: []
+user_id: Harish Kumar

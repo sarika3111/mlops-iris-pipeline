@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Harish%20Kumar/Downloads/mlops-iris-pipeline/src/mlruns/105005051151918986/models/m-e583e1d7942a4ebcad0afe86c5a0c529/artifacts
+creation_timestamp: 1754836358979
+experiment_id: '105005051151918986'
+last_updated_timestamp: 1754836361853
+model_id: m-e583e1d7942a4ebcad0afe86c5a0c529
+model_type: null
+name: LogisticRegression
+source_run_id: 5309f991298b4782bbd3f1ce5259a6ea
+status: 2
+status_message: null

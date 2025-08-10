@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Harish%20Kumar/Downloads/mlops-iris-pipeline/src/mlruns/105005051151918986/models/m-286c050b7ff94ac88f9aae94da33c44d/artifacts
+creation_timestamp: 1754836362000
+experiment_id: '105005051151918986'
+last_updated_timestamp: 1754836364231
+model_id: m-286c050b7ff94ac88f9aae94da33c44d
+model_type: null
+name: RandomForest
+source_run_id: 8778f2b845554e30a7edd3eb593e426f
+status: 2
+status_message: null
