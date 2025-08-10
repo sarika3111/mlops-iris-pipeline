@@ -1,6 +1,6 @@
-artifact_location: file:///C:/Users/6134155/Assignment-MLOPS/mlops-iris-pipeline/mlruns/0
-creation_time: 1754137079348
+artifact_location: mlflow-artifacts:/0
+creation_time: 1754836485937
 experiment_id: '0'
-last_update_time: 1754137079348
+last_update_time: 1754836485937
 lifecycle_stage: active
 name: Default

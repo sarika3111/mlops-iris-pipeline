@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Harish%20Kumar/Downloads/mlops-iris-pipeline/src/mlruns/105005051151918986/4b81d557ca004b3cb4f4208a6997eb95/artifacts
+end_time: 1754835479784
+entry_point_name: ''
+experiment_id: '105005051151918986'
+lifecycle_stage: active
+run_id: 4b81d557ca004b3cb4f4208a6997eb95
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754835477068
+status: 3
+tags: []
+user_id: Harish Kumar

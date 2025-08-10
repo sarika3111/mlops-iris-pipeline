@@ -1,0 +1,36 @@
+artifact_path: file:///C:/Users/Harish%20Kumar/Downloads/mlops-iris-pipeline/src/mlruns/105005051151918986/models/m-e583e1d7942a4ebcad0afe86c5a0c529/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-e583e1d7942a4ebcad0afe86c5a0c529
+model_size_bytes: 1330
+model_uuid: m-e583e1d7942a4ebcad0afe86c5a0c529
+prompts: null
+run_id: 5309f991298b4782bbd3f1ce5259a6ea
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "sepal_length", "required": true}, {"type":
+    "double", "name": "sepal_width", "required": true}, {"type": "double", "name":
+    "petal_length", "required": true}, {"type": "double", "name": "petal_width", "required":
+    true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-10 14:32:38.994908'

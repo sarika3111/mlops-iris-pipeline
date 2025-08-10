@@ -10,8 +10,8 @@ def load_and_preprocess():
     df["species_encoded"] = le.fit_transform(df["species"])
     df_clean = df.drop(columns=["species"])
 
-    df.to_csv("C:/Users/6134155/Assignment-MLOPS/mlops-iris-pipeline/data/raw/iris.csv", index=False)
-    df_clean.to_csv("C:/Users/6134155/Assignment-MLOPS/mlops-iris-pipeline/data/processed/iris_clean.csv", index=False)
+    df.to_csv("C:/Users/Harish Kumar/Downloads/mlops-iris-pipeline/data/raw/iris.csv", index=False)
+    df_clean.to_csv("C:/Users/Harish Kumar/Downloads/mlops-iris-pipeline/data/processed/iris_clean.csv", index=False)
 
     print("Data preprocessing complete.")
 
