@@ -6,3 +6,4 @@ uvicorn
 joblib
 scikit-learn
 pydantic
+flake8
